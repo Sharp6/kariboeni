@@ -1,0 +1,4 @@
+AuthType Basic  
+AuthName "restricted area"  
+AuthUserFile /opt/www/huysmansp/web/www.kariboeni.be/admin/.htpasswd  
+require valid-user

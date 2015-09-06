@@ -1,0 +1,76 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: left;
+}
+
+.categoryMenuItem {
+	background: #444444;
+}
+
+.row {
+	margin-bottom: 50px;
+}
+
+img.align-right {
+	float: right;
+	margin-left: 10px;
+}
+
+.modal-body p {
+	overflow: auto;
+}
+
+.modal-body p img.itemImage {
+	width: 150px;
+
+}
+
+p.formInstructions {
+	font-style: italic;
+	font-size: 12px;
+	color: #888;
+
+}
+
+div.buyerType {
+	position: relative;
+	left: 15px;
+}
+
+div.thumbnail img.catImg {
+	width: 200px;
+	height: 200px;
+}
+
+div.sidebox {
+	width: 35%;
+	border: 1px #000 solid;
+	padding: 1em;
+	float: right;
+	margin-left: 1em;
+}
+
+div.sidebox span.emph {
+	font-weight: bold;
+	color: #f22;
+}
+
+div#logoDiv {
+	float:right;
+}
+div#logoDiv img {
+	height: 50px;
+}
+
+
+/* GREENS */ 
+div.thumbnail {
+	border: 1px solid #00C5A1;
+}
+
+div.thumbnail .btn-default {
+	border-color: #00C5A1;
+}

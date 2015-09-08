@@ -1,0 +1,27 @@
+{
+  "name": "Kariboeni",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Sharp6/kariboeni",
+  "authors": [
+    "Philip Huysmans� <philip.huysmans@gmail.com>"
+  ],
+  "description": "Kariboeni pop-up store",
+  "main": "index.html",
+  "keywords": [
+    "kariboeni"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "knockout": "~3.3.0",
+    "require": "*"
+  }
+}
